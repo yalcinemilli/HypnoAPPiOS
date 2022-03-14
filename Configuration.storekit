@@ -1,0 +1,44 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "59.99",
+      "familyShareable" : false,
+      "internalID" : "73EC3B16",
+      "localizations" : [
+        {
+          "description" : "Abnehmen",
+          "displayName" : "Abnehmen",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.emilli.hypnoapp.abnehmen",
+      "referenceName" : "Abnehmen",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "E455216F",
+      "localizations" : [
+        {
+          "description" : "Abnehmen2",
+          "displayName" : "Abnehmen2",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.emilli.hypnoapp.abnehmen2",
+      "referenceName" : "Abnehmen2",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
